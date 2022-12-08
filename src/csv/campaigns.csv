@@ -1,0 +1,11 @@
+id,name,description,goal,expires_at,status,ownerId
+"08713374-786b-4149-b481-b3c2f245d93d","croudActive","about croudActive",234,2022-12-24,active,1
+"e20562e7-ee97-4972-a68c-3d116a3754e9","croudExpired","about expired campaign",893,2022-12-7,active,1
+"a74d587c-1dd1-44df-904d-f9809c61f285","croudActive2","about croudActive2",1234,2022-12-9,active,2
+"58463c1a-cc60-4b00-8151-3884877e176d","croudActive3","about croudActive3",3212,2022-12-17,active,3
+"58463c1a-cc60-4b00-8151-3884877e176d","croudActive4","about croudActive4",321,2022-12-13,active,2
+"08713374-786b-4149-b481-b3c2f245d93f","croudActive5","about croudActive",234,2022-12-23,active,1
+"e20562e7-ee97-4972-a68c-3d116a3754eg","croudExpired6","about expired campaign",2134,2022-12-10,active,1
+"a74d587c-1dd1-44df-904d-f9809c61f28w","croudActive27","about croudActive2",14234,2022-12-8,active,2
+"58463c1a-cc60-4b00-8151-3884877e176z","croudActive38","about croudActive3",1232,2022-12-11,active,3
+"58463c1a-cc60-4b00-8151-3884877e176k","croudActive49","about croudActive4",3332,2022-12-15,active,2
